@@ -1,1 +1,0 @@
-This is a simple python scrit to upload a status on user's Facebook profile provided that the Facebook is opened on his/her browser before the script is run.
